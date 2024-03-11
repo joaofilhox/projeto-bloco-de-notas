@@ -8,7 +8,7 @@ Este é um simples projeto de bloco de notas desenvolvido em React, onde os usu�
 * Visualizar todas as notas criadas.
 * excluir notas existentes.
 
-  * link para visualizar a pliacão: https://projeto-bloco-de-notas-three.vercel.app/
+  * link para visualizar a aplicação: https://projeto-bloco-de-notas-three.vercel.app/
  
     ## Se preferir baixar e executar o projeto em sua própria máquina, siga os passos abaixo:
 
